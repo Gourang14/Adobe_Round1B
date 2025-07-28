@@ -1,5 +1,8 @@
 pymupdf==1.23.0
 pdfminer.six==20231228
 scikit-learn==1.4.0
+multiprocess==0.70.15
 sentence-transformers==2.2.2
-multiprocess==0.70.15  # For CPU parallel (not GPU)
+huggingface-hub>=0.23.2
+torch==2.3.1
+transformers==4.42.4

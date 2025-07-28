@@ -1,0 +1,27 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_002",
+        "test_case_name": "investment_analyst",
+        "description": "Investment Analysis"
+    },
+    "documents": [
+        {
+            "filename": "Apple_annual_report.pdf",
+            "title": "Apple_annual_report"
+        },
+        {
+            "filename": "Amazon_annual_report.pdf",
+            "title": "Amazon_annual_report"
+        },
+        {
+            "filename": "Alphabet_annual_report.pdf",
+            "title": "Alphabet_annual_report"
+        }
+    ],
+    "persona": {
+        "role": "Investment Analyst"
+    },
+    "job_to_be_done": {
+        "task": "Analyze revenue trends, R&D investments, and market positioning strategies"
+    }
+}
