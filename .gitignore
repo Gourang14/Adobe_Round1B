@@ -44,3 +44,5 @@ output/
 # OS specific
 .DS_Store
 Thumbs.db
+
+models/ms-marco-MiniLM-L-12-v2/*
