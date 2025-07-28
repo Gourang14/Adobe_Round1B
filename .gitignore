@@ -45,4 +45,4 @@ output/
 .DS_Store
 Thumbs.db
 
-models/ms-marco-MiniLM-L-12-v2/model.safetensors
+models/ms-marco-MiniLM-L-12-v2/model.safetensorsmodels/ms-marco-MiniLM-L-12-v2/model.safetensors
