@@ -10,8 +10,7 @@
 ├── input/
 │   └── config.json         # persona + job definition  
 ├── models/  
-│   ├── all‑MiniLM‑L6‑v2    # embedding model  
-│   └── ms‑marco‑MiniLM‑L6‑v2  
+│   ├── ms-marco-MiniLM-L-12-v2 
 ├── output/  
 │   ├── results_round_1b_002_1.json  
 │   ├── results_round_1b_002_2.json  
@@ -76,7 +75,7 @@ Given a *collection of PDFs, a **persona definition, and a **job‑to‑be‑don
 ## Tools & Libraries  
 
 - PyMuPDF (fitz) for PDF parsing  
-- Sentence-Transformers (all-MiniLM-L6-v2) for embeddings  
+- Sentence-Transformers (ms-marco-MiniLM-L-12-v2) for embeddings  
 - NumPy for vector math  
 - multiprocess for parallelism  
 
