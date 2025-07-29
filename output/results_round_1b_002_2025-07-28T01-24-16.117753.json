@@ -1,0 +1,830 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Apple_annual_report.pdf",
+            "Amazon_annual_report.pdf",
+            "Alphabet_annual_report.pdf"
+        ],
+        "persona": "Investment Analyst",
+        "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies",
+        "processing_timestamp": "2025-07-28T01-24-16.117753"
+    },
+    "extracted_sections": [
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "• We will make bold rather than timid investment decisions where we see a sufficient probability of",
+            "importance_rank": 1,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "gaining market leadership advantages. Some of these investments will pay off, others will not, and we",
+            "importance_rank": 2,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "will have learned another valuable lesson in either case.",
+            "importance_rank": 3,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "• When forced to choose between optimizing the appearance of our GAAP accounting and maximizing",
+            "importance_rank": 4,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "the present value of future cash flows, we’ll take the cash flows.",
+            "importance_rank": 5,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "• We will share our strategic thought processes with you when we make bold choices (to the extent",
+            "importance_rank": 6,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "competitive pressures allow), so that you may evaluate for yourselves whether we are making rational",
+            "importance_rank": 7,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "long-term leadership investments.",
+            "importance_rank": 8,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "• We will work hard to spend wisely and maintain our lean culture. We understand the importance of",
+            "importance_rank": 9,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "continually reinforcing a cost-conscious culture, particularly in a business incurring net losses.",
+            "importance_rank": 10,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "potential of our business model.",
+            "importance_rank": 11,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "SM",
+            "importance_rank": 12,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "shopping, and vastly more reviews, content, browsing options, and",
+            "importance_rank": 13,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "By many measures, Amazon.com came a long way in 1997:",
+            "importance_rank": 14,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "over 58% in the same period in 1997.",
+            "importance_rank": 15,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "top 20.",
+            "importance_rank": 16,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "• We established long-term relationships with many important strategic partners, including America",
+            "importance_rank": 17,
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "section_title": "Online, Yahoo!, Excite, Netscape, GeoCities, AltaVista, @Home, and Prodigy.",
+            "importance_rank": 18,
+            "page_number": 11
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Note 3 – Financial Instruments",
+            "importance_rank": 19,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Cash, Cash Equivalents and Marketable Securities",
+            "importance_rank": 20,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "as of September 24, 2022 and September 25, 2021 (in millions):",
+            "importance_rank": 21,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Adjusted",
+            "importance_rank": 22,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Cost",
+            "importance_rank": 23,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Unrealized",
+            "importance_rank": 24,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Gains",
+            "importance_rank": 25,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Losses",
+            "importance_rank": 26,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Fair",
+            "importance_rank": 27,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Value",
+            "importance_rank": 28,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Cash and",
+            "importance_rank": 29,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Cash",
+            "importance_rank": 30,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Equivalents",
+            "importance_rank": 31,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Current",
+            "importance_rank": 32,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Marketable",
+            "importance_rank": 33,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Non-Current",
+            "importance_rank": 34,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "18,546",
+            "importance_rank": 35,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Level 1",
+            "importance_rank": 36,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": ":",
+            "importance_rank": 37,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Money market funds",
+            "importance_rank": 38,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2,929",
+            "importance_rank": 39,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Mutual funds",
+            "importance_rank": 40,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "274",
+            "importance_rank": 41,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "(47)",
+            "importance_rank": 42,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "227",
+            "importance_rank": 43,
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Apple Inc. | 2022 Form 10-K | 38",
+            "importance_rank": 44,
+            "page_number": 41
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "section_title": "OTHER BETS",
+            "importance_rank": 45,
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "section_title": "Costs and Expenses",
+            "importance_rank": 46,
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "section_title": "nature and may not correlate to changes in revenue.",
+            "importance_rank": 47,
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "section_title": "COST OF REVENUES",
+            "importance_rank": 48,
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "section_title": "OPERATING EXPENSES",
+            "importance_rank": 49,
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "section_title": "Other Income (Expense), Net",
+            "importance_rank": 50,
+            "page_number": 64
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "(c)",
+            "importance_rank": 51,
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "accumulated earnings to avoid U.S. federal income tax;",
+            "importance_rank": 52,
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "the Internal Revenue Code of 1986, as amended (the “Code”);",
+            "importance_rank": 53,
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "864(d)(4) of the Code; or",
+            "importance_rank": 54,
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "(f)",
+            "importance_rank": 55,
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "entered into in the ordinary course of its trade or business;",
+            "importance_rank": 56,
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "6",
+            "importance_rank": 57,
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Apple Inc. | 2022 Form 10-K | 19",
+            "importance_rank": 58,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Company Stock Performance",
+            "importance_rank": 59,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "performance.",
+            "importance_rank": 60,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN*",
+            "importance_rank": 61,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index",
+            "importance_rank": 62,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "and the Dow Jones U.S. Technology Supersector Index",
+            "importance_rank": 63,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "$500",
+            "importance_rank": 64,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "*",
+            "importance_rank": 65,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2022 Standard & Poor’s, a division of S&P Global. All rights reserved.",
+            "importance_rank": 66,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2022 S&P Dow Jones Indices LLC, a division of S&P Global. All rights reserved.",
+            "importance_rank": 67,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "September",
+            "importance_rank": 68,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2017",
+            "importance_rank": 69,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2018",
+            "importance_rank": 70,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2019",
+            "importance_rank": 71,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2020",
+            "importance_rank": 72,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2021",
+            "importance_rank": 73,
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "section_title": "2022",
+            "importance_rank": 74,
+            "page_number": 22
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Amazon_annual_report.pdf",
+            "refined_text": "• We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these investments will pay off, others will not, and we will have learned another valuable lesson in either case. • When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we’ll take the cash flows. • We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate for yourselves whether we are making rational long-term leadership investments. • We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture, particularly in a business incurring net losses. • We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize grow",
+            "page_number": 11
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Note 3 – Financial Instruments Cash, Cash Equivalents and Marketable Securities The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 24, 2022 and September 25, 2021 (in millions): 2022 Adjusted Cost Unrealized Gains Unrealized Losses Fair Value Cash and Cash Equivalents Current Marketable Securities Non-Current Marketable Securities Cash $ 18,546 $ — $ — $ 18,546 $ 18,546 $ — $ — Level 1 (1): Money market funds 2,929 — — 2,929 2,929 — — Mutual funds 274 — (47) 227 — 227 — Subtotal 3,203 — (47) 3,156 2,929 227 — Level 2 (2): U.S. Treasury securities 25,134 — (1,725) 23,409 338 5,091 17,980 U.S. agency securities 5,823 — (655) 5,168 — 240 4,928 Non-U.S. government securities 16,948 2 (1,201) 15,749 — 8,806 6,943 Certificates of deposit and time deposits 2,067 — — 2,067 1,805 262 — Commercial paper 718 — — 718 28 690 — Corporate debt securities 87,148 9 (7,707) 79,450 — 9,023 70,427 Municipal securities",
+            "page_number": 41
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "refined_text": "26 ALPHABET INC. ● ANNUAL REPORT PART II ITEM 7 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS OTHER BETS Revenues from Other Bets are generated primarily from the sale of health technology and internet services. Costs and Expenses Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue. COST OF REVENUES Cost of revenues is comprised of TAC and other costs of revenues. z TAC includes: z Amounts paid to our distribution partners who make available our search access points and services. Our distribution partners include browser providers, mobile carriers, original equipmen",
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "refined_text": "26 ALPHABET INC. ● ANNUAL REPORT PART II ITEM 7 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS OTHER BETS Revenues from Other Bets are generated primarily from the sale of health technology and internet services. Costs and Expenses Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue. COST OF REVENUES Cost of revenues is comprised of TAC and other costs of revenues. z TAC includes: z Amounts paid to our distribution partners who make available our search access points and services. Our distribution partners include browser providers, mobile carriers, original equipmen",
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "refined_text": "26 ALPHABET INC. ● ANNUAL REPORT PART II ITEM 7 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS OTHER BETS Revenues from Other Bets are generated primarily from the sale of health technology and internet services. Costs and Expenses Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue. COST OF REVENUES Cost of revenues is comprised of TAC and other costs of revenues. z TAC includes: z Amounts paid to our distribution partners who make available our search access points and services. Our distribution partners include browser providers, mobile carriers, original equipmen",
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "refined_text": "26 ALPHABET INC. ● ANNUAL REPORT PART II ITEM 7 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS OTHER BETS Revenues from Other Bets are generated primarily from the sale of health technology and internet services. Costs and Expenses Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue. COST OF REVENUES Cost of revenues is comprised of TAC and other costs of revenues. z TAC includes: z Amounts paid to our distribution partners who make available our search access points and services. Our distribution partners include browser providers, mobile carriers, original equipmen",
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "refined_text": "26 ALPHABET INC. ● ANNUAL REPORT PART II ITEM 7 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS OTHER BETS Revenues from Other Bets are generated primarily from the sale of health technology and internet services. Costs and Expenses Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue. COST OF REVENUES Cost of revenues is comprised of TAC and other costs of revenues. z TAC includes: z Amounts paid to our distribution partners who make available our search access points and services. Our distribution partners include browser providers, mobile carriers, original equipmen",
+            "page_number": 64
+        },
+        {
+            "document": "Alphabet_annual_report.pdf",
+            "refined_text": "26 ALPHABET INC. ● ANNUAL REPORT PART II ITEM 7 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS OTHER BETS Revenues from Other Bets are generated primarily from the sale of health technology and internet services. Costs and Expenses Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue. COST OF REVENUES Cost of revenues is comprised of TAC and other costs of revenues. z TAC includes: z Amounts paid to our distribution partners who make available our search access points and services. Our distribution partners include browser providers, mobile carriers, original equipmen",
+            "page_number": 64
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "(c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax; (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”); (e) being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or (f) being a bank receiving payments on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business; (2) to any holder that is not the sole beneficial owner of the Notes, or a portion of the Notes, or that is a fiduciary, partnership or limited liability company, but only to the extent that a beneficial owner with respect to the holder, a beneficiary or settlor with respect to the fiduciary, or a benefic",
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "(c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax; (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”); (e) being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or (f) being a bank receiving payments on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business; (2) to any holder that is not the sole beneficial owner of the Notes, or a portion of the Notes, or that is a fiduciary, partnership or limited liability company, but only to the extent that a beneficial owner with respect to the holder, a beneficiary or settlor with respect to the fiduciary, or a benefic",
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "(c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax; (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”); (e) being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or (f) being a bank receiving payments on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business; (2) to any holder that is not the sole beneficial owner of the Notes, or a portion of the Notes, or that is a fiduciary, partnership or limited liability company, but only to the extent that a beneficial owner with respect to the holder, a beneficiary or settlor with respect to the fiduciary, or a benefic",
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "(c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax; (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”); (e) being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or (f) being a bank receiving payments on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business; (2) to any holder that is not the sole beneficial owner of the Notes, or a portion of the Notes, or that is a fiduciary, partnership or limited liability company, but only to the extent that a beneficial owner with respect to the holder, a beneficiary or settlor with respect to the fiduciary, or a benefic",
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "(c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax; (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”); (e) being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or (f) being a bank receiving payments on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business; (2) to any holder that is not the sole beneficial owner of the Notes, or a portion of the Notes, or that is a fiduciary, partnership or limited liability company, but only to the extent that a beneficial owner with respect to the holder, a beneficiary or settlor with respect to the fiduciary, or a benefic",
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "(c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax; (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”); (e) being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or (f) being a bank receiving payments on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business; (2) to any holder that is not the sole beneficial owner of the Notes, or a portion of the Notes, or that is a fiduciary, partnership or limited liability company, but only to the extent that a beneficial owner with respect to the holder, a beneficiary or settlor with respect to the fiduciary, or a benefic",
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "(c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax; (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”); (e) being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or (f) being a bank receiving payments on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business; (2) to any holder that is not the sole beneficial owner of the Notes, or a portion of the Notes, or that is a fiduciary, partnership or limited liability company, but only to the extent that a beneficial owner with respect to the holder, a beneficiary or settlor with respect to the fiduciary, or a benefic",
+            "page_number": 67
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        },
+        {
+            "document": "Apple_annual_report.pdf",
+            "refined_text": "Company Stock Performance The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance. COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN* Among Apple Inc., the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index Apple Inc. S&P 500 Index S&P Information Technology Index Dow Jones U.S. Technology Supersector Index 9/29/17 9/29/18 9/28/19 9/26/20 9/25/21 9/24/22 $0 $100 $200 $300 $400 $500 * $100 in",
+            "page_number": 22
+        }
+    ]
+}
